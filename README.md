@@ -1,41 +1,40 @@
 # Aseprite em Português Brasileiro
-<h2>Introdução</h2>
+## Introdução
 
-Salve, salve! Bem vindx à página da tradução do Aseprite para potuguês do Brasil!
+Essa é a continuação do trabalho de tradução do Aseprite do meu ídolo [@puddiCria](https://github.com/puddiCria), que não só continuou meu trabalho de traduzir o Aseprite (o qual eu parei faz quase 4 anos) como contribuiu para que essas traduções continuassem junto com o desenvolvimento do software. Muito obrigado!
 
-O Aseprite 1.2.27 foi traduzido usando expressões da nossa língua de acordo com a Reforma Ortográfica de 2010, e estou disponibilizando aqui o download do mesmo. Algumas expressões ficam inadequadas quando traduzidas, por isso optei por não traduzir determinadas palavras. Exemplo: Tag = Etiqueta; atualmente essa palavra já foi incoporada ao nosso vocabulário de expressões contextuais devido o acesso a informação e tecnologia e colocar a palavra traduzida causaria confusão. Existem palavras que ao traduzir ficam grandes, mas são insubstituíveis, por isso tive que mantê-las.
+## Erros de português
 
-Qualquer dúvida, sugestão ou reclamação é só falar comigo. Meus contatos estão no meu perfil.
+Posso me confundir com erros de português as vezes, então se você achar um, faz um pull request. Terei o maior prazer em consertá-lo.
 
-<h2>Notas da versão</h2>
+## Status do projeto
 
-Por algum motivo, acredito que pela falta de alguns vínculos nas strings do programa determinados menus não atualizam com o idioma selecionado, ou seja, mesmo estando traduzido nas strings do arquivo de linguagem, ao abrir o programa ele exibe o idioma original (en) ao invés da tradução.
+Por enquanto, ativo.
 
-Além disso existe um erro muito similar na versão beta 1.3, com a diferença de que no arquivo de tradução faltam alguma linhas de código e por isso por enquanto é impossível traduzir.
+## Créditos
 
-<h2>Agradecimentos</h2>
+[@puddiCria](https://github.com/puddiCria) - Continuou as traduções por mim
 
-Ficam aqui meus agradecimentos especiais ao <a href="https://github.com/Inky1003">@Inky1003</a>, apesar de eu ter reescrito toda a tradução à partir do inglês, foi de grande ajuda parte da consulta na tradução anterior feita por ele, principalmente em alguns termos que eu não sabia o significado.
+## Instalação
 
-<h2>Como instalar</h2>
+TODO: Refazer esta seção!
 
-<b>Método "automático":</b><br>
+### Método "automático":
 
-<b>1 -</b> Baixe os arquivos do link abaixo (Downloads);<br>
-<b>2 -</b> Com o Aseprite aberto execute o arquivo "aseprite-ptbr-[versão].aseprite-extension;"<br>
-<b>3 -</b> Clique em "Install" quando aparecer o aviso de instalação no Aseprite;<br>
-<b>4 -</b> Vá até o <sup><b>[1]</b></sup>Menu → Edit → Preferences... → General → Language: → escolha pt-br;
-<b>5 -</b> Clique em Apply → Ok → Reinicie seu Aseprite para garantir que tudo esteja correto.<br>
+1. Baixe os arquivos do link abaixo (Downloads);<br>
+2. Com o Aseprite aberto execute o arquivo "aseprite-ptbr-[versão].aseprite-extension;"<br>
+3. Clique em "Install" quando aparecer o aviso de instalação no Aseprite;<br>
+4. Vá até o <sup><b>[1]</b></sup>Menu → Edit → Preferences... → General → Language: → escolha pt-br;
+5. Clique em Apply → Ok → Reinicie seu Aseprite para garantir que tudo esteja correto.<br>
 
 Pronto!
 
-<b>Método "manual":</b><br>
+### Método "manual":
 
-<b>1 -</b> ...<br>
-<b>2 -</b> Extraia o arquivo "aseprite-pt_br-[versão].zip";<br>
-<b>3 -</b> Com o Aseprite aberto vá até as configurações de idioma <sup><b>ver</b>[1]</sup>;<br>
-<b>4 -</b> Clique em "Locate Configuration File";<br>
-<b>5 -</b> Abra a pasta "extensions" e cole aqui a pasta e o conteúdo extraído anteriormente (aseprite-pt_br-[versão].zip)
+1. Extraia o arquivo "aseprite-pt_br-[versão].zip";<br>
+2. Com o Aseprite aberto vá até as configurações de idioma <sup><b>ver</b>[1]</sup>;<br>
+3. Clique em "Locate Configuration File";<br>
+4. Abra a pasta "extensions" e cole aqui a pasta e o conteúdo extraído anteriormente (aseprite-pt_br-[versão].zip)
 
 Pronto!
 
