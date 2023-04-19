@@ -9,7 +9,7 @@ Posso me confundir com erros de português as vezes, então se você achar um, f
 
 ## Status do projeto
 
-Por enquanto, ativo.
+Por enquanto, esquecido.
 
 ## Créditos
 
